@@ -1,10 +1,66 @@
 [
     {
-        "title": "Run straight to burning forest skip everything",
+        "title": "Run straight to burning forest skip everything and save gareth",
         "content" : [{"text": "Run straight to the 1st zone dont need to attack anything", "img" : "/le-speedlv/img/Gareth.PNG"}]
     },
     {
-        "title": "Run straight to burning forest skip everything",
-        "content" : [{"text": "Run straight to the 1st zone dont need to attack anything", "img" : "/le-speedlv/img/Gareth.PNG"}]
+        "title": "Run to keeper camp go straight toward the Fortress Gardens and reach Fortress Walls, you dont need to interact with any npc ",
+        "content" : [{"text": "Run straight to the gardens", "img" : "/le-speedlv/img/Garden.PNG"}]
+    },
+    {
+        "title": "talk to the npn in Fortress Walls for side quest and do it then continue with main quest",
+        "content" : [{"text": "Talk to heoborean soldier and do his sidequest in The Store Room", "img" : "/le-speedlv/img/SQ1.PNG"}]
+    },
+    {
+        "title": "Talk to Keeper Guard at Northern Road and watch old man get capture then immediately tp to The Keepers' Camp",
+        "content" : [{"text": "This took awhile so craft time", "img" : "/le-speedlv/img/talk1.PNG"}]
+    },
+    {
+        "title": "Talk to Keeper Guard at Northern Road and watch old man get capture",
+        "content" : [{"text": "Talk to heoborean soldier and do his sidequest in The Store Room", "img" : "/le-speedlv/img/SQ1.PNG"}]
+    },
+    {
+        "title": "Talk to Keeper Leena then go to the right map then continue with main quest till The Summit",
+        "content" : [{"text": "Talk to her man", "img" : "/le-speedlv/img/talk2.PNG"},{"text": "KIll this when u r in Highlands cause they are rare enemy and drop rare gear", "img" : "/le-speedlv/img/rare1.jpg"}]
+    },
+    {
+        "title": "Kill boss in The Summit save old man then immediately tp to Keeper' Camp then cotinue main quest till reach Last Refuge Outskirts",
+        "content" : [{"text": "Just use map+right click to tp to Camp after save the old man doesnt need to open gate", "img" : "/le-speedlv/img/summit.PNG"}]
+    },
+    {
+        "title": "take side quest in Last Refuge Outskirts, do it and continue main quest till the Council Chamber",
+        "content" : [{"text": "quest location", "img" : "/le-speedlv/img/sq2.PNG"},{"text": "it is faster to go this route", "img" : "/le-speedlv/img/tip1.PNG"}]
+    },
+    {
+        "title": "Return side+main quest in Coucil Chamber go to the Last Archive",
+        "content" : [{"text": "side quest return", "img" : "/le-speedlv/img/rsq1.PNG"}]
+    },
+    {
+        "title": "From the Last Archive to to Erza's Library for side quest, grab the book return to the Last Archive",
+        "content" : [{"text": "Elsa lib location", "img" : "/le-speedlv/img/elsa.PNG"},{"text": "book location", "img" : "/le-speedlv/img/book1.PNG"}]
+    },
+    {
+        "title": "Do main quest till kill the students in Pannion's Study and immediately tp back to the Coucil Chamber",
+        "content" : [{"text": "students", "img" : "/le-speedlv/img/stu.PNG"}]
+    },
+    {
+        "title": "Return the main quest, return side quest in the left dude for gloves or right for the amulet then do main quest till Accient Carvern rift",
+        "content" : [{"text": "Unique location:", "img" : "/le-speedlv/img/rsq2.PNG"},{"text": "Go to next zone dont need to interact with anyone else", "img" : "/le-speedlv/img/nz1.PNG"}]
+    },
+    {
+        "title": "In Acient Carvern enter Ruined Area timerift continue main quest in the Armory till the End of TIme, the Forge doesnt do anything",
+        "content" : [{"text": "Rift here", "img" : "/le-speedlv/img/tr1.PNG"}]
+    },
+    {
+        "title": "pick Mastery go through portal to the Council Chamber",
+        "content" : [{"text": "go up the ramp", "img" : "/le-speedlv/img/ramp.PNG"}]
+    },
+    {
+        "title": "In the Council Chamber, return main quest and go to the gate in the right (dont need to talk to anyone)",
+        "content" : [{"text": "Open this gate", "img" : "/le-speedlv/img/gate.PNG"}]
+    },
+    {
+        "title": "Do main till Cultist Camp talk to main quest npc (ignore the rest) then go down south toward next zone kill boss, pick up main quest item then tp back to town",
+        "content" : [{"text": "Main quest NPC", "img" : "/le-speedlv/img/rmq2.PNG"}, {"text": "Next zone", "img" : "/le-speedlv/img/nz2.PNG"}]
     }
 ]

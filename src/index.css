@@ -92,6 +92,7 @@ img {
 .top-section-left{
   display: flex;
   align-items: center;
+  max-width: 95%;
 }
 
 .content{

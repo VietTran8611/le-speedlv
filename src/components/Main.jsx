@@ -50,7 +50,7 @@ export const Main = () => {
                                     return(
                                         <div>
                                             <p>{drop.text}</p>
-                                            <img className='image' src={import.meta.env.BASE_URL+ `public/img/${drop.img}`} alt="" />
+                                            <img className='image' src={drop.img} alt="" />
                                         </div>
                                     )
                                 })}

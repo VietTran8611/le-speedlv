@@ -50,7 +50,7 @@ export const Main = () => {
                                     return(
                                         <div>
                                             <p>{drop.text}</p>
-                                            <img className='image' src={`src\\components\\img\\${drop.img}`} alt="" />
+                                            <img className='image' src={`public\\img\\${drop.img}`} alt="" />
                                         </div>
                                     )
                                 })}

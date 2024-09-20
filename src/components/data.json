@@ -111,5 +111,9 @@
     {
         "title": "Kill boss in the Corrupted Lake",
         "content" : [ {"text": "the boss:", "img" : "/le-speedlv/img/boss1.PNG"}]
+    },
+    {
+        "title": "Return to the Shinning Cove in the Imperial Era and unlock Temporal Sanctum while grabbing the saphire tablet for side quest",
+        "content" : [ ]
     }
 ]

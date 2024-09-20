@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React, { useEffect, useState } from 'react'
 import data from './data.json'
 
 export const Main = () => {
@@ -9,6 +9,22 @@ export const Main = () => {
     const [checkedFlip, setCheckedslip] = useState(
         new Array(data.length).fill(false)
     );
+
+    useEffect(()=>{
+        const check = window.localStorage.getItem('checkmark')
+        const flip = window.localStorage.getItem('expand')
+        if(check!=null) {setCheckedState(check)}
+        if(flip!=null) {setCheckedslip(flip)}
+    },[])
+
+    useEffect(()=>{
+        window.localStorage.setItem('checkmark',JSON.stringify(checkedState))
+    },[checkedState])
+
+    
+    useEffect(()=>{
+        window.localStorage.setItem('expand',JSON.stringify(checkedFlip))
+    },[checkedFlip])
 
     const handleOnChange = (position) => {
         const updatedCheckedState = checkedState.map((item, index) =>

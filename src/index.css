@@ -116,6 +116,8 @@ input[type=checkbox] {
 }
 
 input[type=checkbox] + label:before {
+  cursor: pointer;
+
   content: "\2714";
   border: .1em solid var(--clr--border);
   border-radius: .2em;

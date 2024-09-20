@@ -20,7 +20,7 @@ export const Main = () => {
 
       const handleExpand = (position) => {
         const updatedCheckedState = checkedFlip.map((item, index) =>
-            index === position ? !item : item
+            index === position ? !item : false
           );
           setCheckedslip(updatedCheckedState);
       }; 

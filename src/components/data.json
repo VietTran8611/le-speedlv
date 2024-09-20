@@ -16,10 +16,6 @@
         "content" : [{"text": "This took awhile so craft time", "img" : "/le-speedlv/img/talk1.PNG"}]
     },
     {
-        "title": "Talk to Keeper Guard at Northern Road and watch old man get capture",
-        "content" : [{"text": "Talk to heoborean soldier and do his sidequest in The Store Room", "img" : "/le-speedlv/img/SQ1.PNG"}]
-    },
-    {
         "title": "Talk to Keeper Leena then go to the right map then continue with main quest till The Summit",
         "content" : [{"text": "Talk to her man", "img" : "/le-speedlv/img/talk2.PNG"},{"text": "KIll this when u r in Highlands cause they are rare enemy and drop rare gear", "img" : "/le-speedlv/img/rare1.jpg"}]
     },
@@ -60,7 +56,44 @@
         "content" : [{"text": "Open this gate", "img" : "/le-speedlv/img/gate.PNG"}]
     },
     {
-        "title": "Do main till Cultist Camp talk to main quest npc (ignore the rest) then go down south toward next zone kill boss, pick up main quest item then tp back to town",
+        "title": "Do main till Cultist Camp talk to main quest npc (ignore the rest) then go down south toward next zone kill boss, pick up symbol of hope then tp back to town",
         "content" : [{"text": "Main quest NPC", "img" : "/le-speedlv/img/rmq2.PNG"}, {"text": "Next zone", "img" : "/le-speedlv/img/nz2.PNG"}]
+    },
+    {
+        "title": "When at town immediately head toward top left exit",
+        "content" : [ {"text": "Next zone", "img" : "/le-speedlv/img/exit.PNG"}]
+    },
+    {
+        "title": "When at town immediately head toward top left exit",
+        "content" : [ {"text": "Next zone", "img" : "/le-speedlv/img/exit.PNG"}]
+    },
+    {
+        "title": "in the Ruins of Welryn skip side quest and head toward bottom left toward Welryn Undercity",
+        "content" : [ {"text": "Next zone", "img" : "/le-speedlv/img/exit2.PNG"}]
+    },
+    {
+        "title": "Do main quest for the Last Imperial and use map to tp to camp when finish then continue with main",
+        "content" : [ {"text": "The last Imperial:", "img" : "/le-speedlv/img/npc.PNG"},{"text": "Return to camp npc:", "img" : "/le-speedlv/img/npc1.PNG"}]
+    },
+    {
+        "title": "SKIP all side quest from this point (when u enter the Ritual Site) just do main till we reach the Oracles Abode chap 5 (we will comeback later)",
+        "content" : [{"text": "When enter Lotus Hall u can run immediately toward left, ignore quest marker, hug left side of wall until u reach this statue to open a portal", "img" : "/le-speedlv/img/npc3.PNG"},
+                     {"text": "get back to Lotus Hall to insert the stone form here then continue with main quest", "img" : "/le-speedlv/img/npc4.PNG"},
+                     {"text": "Necrotic res in chap 4 is gud, chap 4 start at:", "img" : "/le-speedlv/img/npc5.PNG"},
+                     {"text": "Skip this time rift at the Risen Lake (we comeback later), just do main", "img" : "/le-speedlv/img/npc6.PNG"},
+                     {"text": "Once u done with boat sequence and land at the Shining Cove, u reach chap 5", "img" : "/le-speedlv/img/npc7.PNG"},
+                     {"text": "Oracle Abode:", "img" : "/le-speedlv/img/npc8.PNG"}]
+    },
+    {
+        "title": "In Oracle Abode turn in side quest to shrine maiden near teleporter and turn in main quest to the snake lady, after this we do side",
+        "content" : [ {"text": "Side quest return:", "img" : "/le-speedlv/img/rsq3.PNG"}]
+    },
+    {
+        "title": "Tp to The Shattered Valley in Ruined Era and head north toward the Abandon Tunnel then the Lost Refuge and do the side quest by find the tome and take it",
+        "content" : [ {"text": "TP point:", "img" : "/le-speedlv/img/sq3.PNG"},{"text": "Abandon Tunnel:", "img" : "/le-speedlv/img/sq4.PNG"},{"text": "tome in the Lost Reguge:", "img" : "/le-speedlv/img/sq5.PNG"}]
+    },
+    {
+        "title": "Tp back to the Shattered Valley and go south toward the time rift",
+        "content" : [ {"text": "TP point:", "img" : "/le-speedlv/img/sq3.PNG"},{"text": "Time rift:", "img" : "/le-speedlv/img/sq6.PNG"}]
     }
 ]

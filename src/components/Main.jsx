@@ -13,8 +13,8 @@ export const Main = () => {
     useEffect(()=>{
         const check = window.localStorage.getItem('checkmark')
         const flip = window.localStorage.getItem('expand')
-        if(check!=null) {setCheckedState(check)}
-        if(flip!=null) {setCheckedslip(flip)}
+        if(check!=null) {setCheckedState(JSON.parse(check))}
+        if(flip!=null) {setCheckedslip(JSON.parse(flip))}
     },[])
 
     useEffect(()=>{

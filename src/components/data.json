@@ -93,7 +93,23 @@
         "content" : [ {"text": "TP point:", "img" : "/le-speedlv/img/sq3.PNG"},{"text": "Abandon Tunnel:", "img" : "/le-speedlv/img/sq4.PNG"},{"text": "tome in the Lost Reguge:", "img" : "/le-speedlv/img/sq5.PNG"}]
     },
     {
-        "title": "Tp back to the Shattered Valley and go south toward the time rift",
+        "title": "Tp back to the Shattered Valley and go south toward the time rift lead to Acient Forest",
         "content" : [ {"text": "TP point:", "img" : "/le-speedlv/img/sq3.PNG"},{"text": "Time rift:", "img" : "/le-speedlv/img/sq6.PNG"}]
+    },
+    {
+        "title": "Kill dragon boss in the Acient Forest",
+        "content" : [ {"text": "the boss:", "img" : "/le-speedlv/img/boss.PNG"}]
+    },
+    {
+        "title": "TP to the Council Chamber in the Ruined Era to turn 2 side quest in",
+        "content" : [ {"text": "Tp point:", "img" : "/le-speedlv/img/sq7.PNG"},{"text": "Turn in these 2 npc:", "img" : "/le-speedlv/img/rsq4.PNG"}]
+    },
+    {
+        "title": "Tp to the Risen Lake in the Imperial Era head toward the Corrupted Lake time rift up north",
+        "content" : [ {"text": "TP point:", "img" : "/le-speedlv/img/sq8.PNG"},{"text": "Time rift:", "img" : "/le-speedlv/img/sq9.PNG"}]
+    },
+    {
+        "title": "Kill boss in the Corrupted Lake",
+        "content" : [ {"text": "the boss:", "img" : "/le-speedlv/img/boss1.PNG"}]
     }
 ]

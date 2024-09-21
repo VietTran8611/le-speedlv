@@ -115,5 +115,65 @@
     {
         "title": "Return to the Shinning Cove in the Imperial Era and unlock Temporal Sanctum while grabbing the saphire tablet for side quest",
         "content" : [ ]
+    },
+    {
+        "title": "Do mono till u find Temporal Sanctum key",
+        "content" : [ {"text":"You should be 13/15 passive and 5/8 idols", "img":""}]
+    },
+    {
+        "title": "Do the dungeon and reach chap 9 in Radiant Dune",
+        "content" : [ {"text":"The Radiant Dune:", "img":"/le-speedlv/img/dune.PNG"}]
+    },
+    {
+        "title": "In Radiant Dune do main quest, and find the vault (side area) for a sidequest, it isn’t marked on the map.",
+        "content" : [ {"text":"One possible spawn location for vault:", "img":"/le-speedlv/img/dune2.PNG"}]
+    },
+    {
+        "title": "Clear the vault and pick up the treasure, exit the way you came and continue main till majelka upper district",
+        "content" : [ {"text":"When reach Majelka Upper District, run back to Radiant Dunes then TP to Majelka Upper District with map so you dont have to walk the long walkway", "img":"/le-speedlv/img/ma.PNG"}]
+    },
+    {
+        "title": "Immediately go to majelka lower district dont need to interact with anything or watch cutscence",
+        "content" : [ {"text":"Lower District:", "img":"/le-speedlv/img/ma2.PNG"}]
+    },
+    {
+        "title": "DO main till reach the Slums",
+        "content" : [ {"text":"Do not give this guy bride, just stick to top option:", "img":"/le-speedlv/img/ma3.PNG"},{"text":"Slums entrance:", "img":"/le-speedlv/img/ma4.PNG"}]
+    },
+    {
+        "title": "Skip the first quest marker in the slums, go north east and turn in the desert treasure side quest, then go to the next quest marker and kill the scalebane guild leader",
+        "content" : [ {"text":"Side quest location:", "img":"/le-speedlv/img/ma5.PNG"},{"text":"Main quest location:", "img":"/le-speedlv/img/ma6.PNG"}]
+    },
+    {
+        "title": "TP to Majelka Upper District, turn in the quests, and then go north west pick factions and head to the Oasis",
+        "content" : [ {"text":"Turn in side quest and accpet main:", "img":"/le-speedlv/img/ma7.PNG"},{"text":"Go up here:", "img":"/le-speedlv/img/ma8.PNG"}, {"text":"Pick faction (clearly MG to the right):", "img":"/le-speedlv/img/ma9.PNG"},{"text":"Oasis gate:", "img":"/le-speedlv/img/ma10.PNG"}]
+    },
+    {
+        "title": "Run southwest in the oasis towards the marker on your map to unlock side quest, then run north and kill the spinehunter alpha.",
+        "content" : [ {"text":"Spinehunter:", "img":"/le-speedlv/img/ma11.PNG"}]
+    },
+    {
+        "title": "Continue East to get to the crystal mines entrance talk to the npc near entrancce of the mines",
+        "content" : [ {"text":"Talk to her:", "img":"/le-speedlv/img/ma12.PNG"}]
+    },
+    {
+        "title": "Once you’re in the crystal mines go northwest and kill the crystal lotus for side quest, then run east to continue main",
+        "content" : [ {"text":"Crystal Lotus:", "img":"/le-speedlv/img/ma13.PNG"}]
+    },
+    {
+        "title": "Finish chapter 9 and get ur +1 to all atributes",
+        "content" : [ {"text":"Crystal Lotus:", "img":"/le-speedlv/img/ma13.PNG"}]
+    },
+    {
+        "title": "Finish chapter 9 and get ur +1 to all atributes",
+        "content" : []
+    },
+    {
+        "title": "TP back to the Oasis and turn in the quest, and you should get all skill points and idol slots",
+        "content" : [ {"text":"Destination:", "img":"/le-speedlv/img/ma14.PNG"}]
+    },
+    {
+        "title": "(optional) TP back to majelka upper district and turn in the quest.",
+        "content" : [ {"text":"Return quest here:", "img":"/le-speedlv/img/ma15.PNG"}]
     }
 ]

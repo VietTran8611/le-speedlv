@@ -78,8 +78,7 @@ img {
   margin: 1em;
   padding: .5em 1em;
   border-radius: 8px;
-  background-color: var(--clr--secondary);
-  filter: brightness(118%);
+  background-color: oklch(from var(--clr--secondary) calc(l + .125) c h);
 
 }
 

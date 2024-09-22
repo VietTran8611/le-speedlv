@@ -133,11 +133,11 @@
         "content" : [ {"text":"When reach Majelka Upper District, run back to Radiant Dunes then TP to Majelka Upper District with map so you dont have to walk the long walkway", "img":"/le-speedlv/img/ma.PNG"}]
     },
     {
-        "title": "Immediately go to majelka lower district dont need to interact with anything or watch cutscence",
+        "title": "Talk to side quest NPC, the main quest npc then go to majelka lower district ",
         "content" : [ {"text":"Lower District:", "img":"/le-speedlv/img/ma2.PNG"}]
     },
     {
-        "title": "DO main till reach the Slums",
+        "title": "Do side quest in the lower district then do main till the Slums",
         "content" : [ {"text":"Do not give this guy bride, just stick to top option:", "img":"/le-speedlv/img/ma3.PNG"},{"text":"Slums entrance:", "img":"/le-speedlv/img/ma4.PNG"}]
     },
     {
@@ -158,10 +158,6 @@
     },
     {
         "title": "Once you’re in the crystal mines go northwest and kill the crystal lotus for side quest, then run east to continue main",
-        "content" : [ {"text":"Crystal Lotus:", "img":"/le-speedlv/img/ma13.PNG"}]
-    },
-    {
-        "title": "Finish chapter 9 and get ur +1 to all atributes",
         "content" : [ {"text":"Crystal Lotus:", "img":"/le-speedlv/img/ma13.PNG"}]
     },
     {

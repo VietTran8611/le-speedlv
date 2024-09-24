@@ -26,6 +26,20 @@ export const Main = () => {
         window.localStorage.setItem('expand',JSON.stringify(checkedFlip))
     },[checkedFlip])
 
+    const clear = ()=>{
+        localStorage.clear()
+        const updatedCheckedState = checkedFlip.map(() =>
+             false
+          );
+          setCheckedslip(updatedCheckedState);
+
+        const updatedCheckedState2 = checkedState.map(() =>
+            false
+         );
+         setCheckedState(updatedCheckedState2);
+
+      }
+
     const handleOnChange = (position) => {
         const updatedCheckedState = checkedState.map((item, index) =>
           index === position ? !item : item
@@ -42,6 +56,7 @@ export const Main = () => {
       }; 
     return (
         <div>
+            <button onClick={clear} className='btn-clear'>Clear checkbox</button>
             <ul className='list'>
                 {data.map(({title,content},index)=>{
                     return(

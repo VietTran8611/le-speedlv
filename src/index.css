@@ -143,3 +143,14 @@ input[type=checkbox]:checked + label:before {
 .image{
   width: 90%;
 }
+
+.btn-clear{
+  padding: 1em;
+  position: fixed;
+  left: 10px;
+  top: 3em;
+  border-radius: 5px;
+  border: none;
+  background-color: oklch(from var(--clr--primary) calc(l + .225) c h);
+  font-weight: bold;
+}
